@@ -1,0 +1,64 @@
+_repo: The-Robbers_6782
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Johann Christoph Friedrich von
+    - Schiller, Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
+description: "The Robbers (Die Räuber) is the first drama by German playwright Friedrich\
+  \ Schiller. The play was published in 1781 and premiered on 13 January 1782 in Mannheim,\
+  \ Germany, and was inspired by Leisewitz' earlier play Julius of Tarent. It was\
+  \ written towards the end of the German Sturm und Drang (\"Storm and Stress\") movement,\
+  \ and many critics, such as Peter Brooks, consider it very influential in the development\
+  \ of European melodrama. The play astounded its Mannheim audience and made Schiller\
+  \ an overnight sensation. It later became the basis for Verdi's opera of the same\
+  \ name, I masnadieri.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- Opera
+gutenberg_issued: '2004-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6782'
+  wikidata: Q466333
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Drama'
+- GITenberg
+title: The Robbers
+url: http://www.gutenberg.org/ebooks/6782
+wikipedia:
+- https://eo.wikipedia.org/wiki/La_Rabistoj
+- https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%87%D8%B2%D9%86%D8%A7%D9%86
+- https://ru.wikisource.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B1%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA%D0%B8_(%D0%A8%D0%B8%D0%BB%D0%BB%D0%B5%D1%80)
+- https://sv.wikipedia.org/wiki/R%C3%B6varbandet
+- https://ja.wikipedia.org/wiki/%E7%BE%A4%E7%9B%97
+- https://pt.wikipedia.org/wiki/Os_Bandoleiros
+- https://de.wikisource.org/wiki/Die_R%C3%A4uber
+- https://es.wikipedia.org/wiki/Los_bandidos
+- https://en.wikipedia.org/wiki/The_Robbers
+- https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B1%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA%D0%B8
+- https://ko.wikipedia.org/wiki/%EA%B5%B0%EB%8F%84_(%ED%9D%AC%EA%B3%A1)
+- https://fr.wikipedia.org/wiki/Les_Brigands
+- https://pl.wikipedia.org/wiki/Zb%C3%B3jcy_(dramat)
+- https://hu.wikipedia.org/wiki/A_harami%C3%A1k
+- https://be-tarask.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B1%D0%BE%D0%B9%D0%BD%D1%96%D0%BA%D1%96_(%D0%BF%E2%80%99%D0%B5%D1%81%D0%B0)
+- https://ru.wikiquote.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B1%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA%D0%B8
+- https://be.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B1%D0%BE%D0%B9%D0%BD%D1%96%D0%BA%D1%96,_%D0%BF%27%D0%B5%D1%81%D0%B0
+- https://ka.wikipedia.org/wiki/%E1%83%A7%E1%83%90%E1%83%A9%E1%83%90%E1%83%A6%E1%83%94%E1%83%91%E1%83%98
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%84%D8%B5%D9%88%D8%B5_(%D9%85%D8%B3%D8%B1%D8%AD%D9%8A%D8%A9)
+- https://nl.wikipedia.org/wiki/Die_R%C3%A4uber
+- https://cs.wikipedia.org/wiki/Loupe%C5%BEn%C3%ADci
+- https://de.wikipedia.org/wiki/Die_R%C3%A4uber
+- https://it.wikipedia.org/wiki/I_masnadieri_(Schiller)
+- https://he.wikipedia.org/wiki/%D7%94%D7%A9%D7%95%D7%93%D7%93%D7%99%D7%9D
