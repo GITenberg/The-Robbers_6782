@@ -1,5 +1,8 @@
 _repo: The-Robbers_6782
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schiller, Friedrich
@@ -19,6 +22,8 @@ description: "The Robbers (Die Räuber) is the first drama by German playwright 
   \ of European melodrama. The play astounded its Mannheim audience and made Schiller\
   \ an overnight sensation. It later became the basis for Verdi's opera of the same\
   \ name, I masnadieri.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6782#The-Robbers
 gutenberg_bookshelf:
 - Banned Books from Anne Haight's list
 - Opera
